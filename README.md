@@ -3,7 +3,7 @@
 
 ## Screenshots
 
-![screenshot 1](images/screenshot1.PNG)
+![screenshot 1](image/screenshot1.PNG)
 
 ![screenshot 2](image/screenshot2.PNG)
 
